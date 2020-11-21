@@ -1,0 +1,9 @@
+name = OZ Meds Traits Bundle
+require = CoreBundle
+poster = poster.png
+description = Traits bundle
+id = TraitsBundle
+url = https://github.com/Nyamops/oz-meds-traits-bundle
+modversion = 1.0.0
+pzversion = 41
+tags = trait
